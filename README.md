@@ -7,7 +7,8 @@ This project demonstrates how to implement a history-aware retrieval chain using
   
 Ollama allows you to run open-source large language models, such as Llama 2, locally.
 First, follow these instructions to set up and run a local Ollama instance: [Ollama](https://ollama.com/download)  
-Fetch a model via ollama pull llama2
+Fetch a model via ollama 
+```pull llama2```
 
 
 **Install the dependencies**
