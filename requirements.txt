@@ -1,0 +1,4 @@
+langchain
+transformers
+beautifulsoup4
+faiss-cpu
